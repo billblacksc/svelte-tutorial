@@ -8,7 +8,7 @@
 
 <style>
 	h1 {
-		font-size: 72px;
+		font-size: 80px;
 		text-align: center;
 	}
 </style>
