@@ -9,6 +9,6 @@
 <style>
 	h1 {
 		font-size: 72px;
-		text-aligh: center;
+		text-align: center;
 	}
 </style>
